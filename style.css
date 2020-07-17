@@ -1,0 +1,26 @@
+.navbar{
+	color:white;
+}
+
+h1,h2{
+	text-align: center;
+	margin-top: 10px;
+}
+
+h3{
+	text-align: center;
+	margin-top: 20px;
+}
+
+.item{
+	margin-top:20px;
+	padding:10px;
+	font-size: 1.4em;
+	height:500px;
+	background: grey;
+}
+
+.navbar-nav{
+text-align: center;
+
+}
